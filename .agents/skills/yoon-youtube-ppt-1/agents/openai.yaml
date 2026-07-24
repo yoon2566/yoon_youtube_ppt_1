@@ -1,0 +1,4 @@
+interface:
+  display_name: "yoon_youtube_ppt_1"
+  short_description: "유튜브를 검증된 1080p 따라하기 PPT로 변환"
+  default_prompt: "Use $yoon-youtube-ppt-1 to turn this YouTube tutorial into a verified 1080p beginner follow-along PowerPoint."
